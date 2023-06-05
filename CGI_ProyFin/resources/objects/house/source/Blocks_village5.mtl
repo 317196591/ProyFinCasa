@@ -1,0 +1,74 @@
+newmtl BV_V_06
+d 1
+Ns 0.60000002
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_06.jpg
+map_Ks /Maps/BV_V_06.jpg
+map_Bump /Maps/BV_V_06_bump.jpg
+
+newmtl BV_V_05
+d 0.69999999
+Ns 0.60000002
+Ni 1.942446
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_05.jpg
+map_D /Maps/BV_V_05_trans.jpg
+map_Ks /Maps/BV_V_05.jpg
+map_refl /Maps/FlatronGEL.jpg
+map_Bump /Maps/BV_V_05_bump.jpg
+
+newmtl BV_V_04
+d 1
+Ns 0.60000002
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_04.jpg
+map_Ks /Maps/BV_V_04.jpg
+map_Bump /Maps/BV_V_04_bump.jpg
+
+newmtl BV_V_03
+d 1
+Ns 0.60000002
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_03.jpg
+map_Ks /Maps/BV_V_03.jpg
+map_Bump /Maps/BV_V_03_bump.jpg
+
+newmtl BV_V_02
+d 1
+Ns 0.60000002
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_02.jpg
+map_Ks /Maps/BV_V_02.jpg
+map_Bump /Maps/BV_V_02_bump.jpg
+
+newmtl BV_V_01
+d 1
+Ns 0.60000002
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.42745098 0.44313726 0.44313726
+Km 0.89999998
+map_Kd /Maps/BV_V_01.jpg
+map_Ks /Maps/BV_V_01.jpg
+map_Bump /Maps/BV_V_01_bump.jpg
+
